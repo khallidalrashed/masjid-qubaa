@@ -904,3 +904,12 @@ footer p {
     height: 790px;
   }
 }
+
+/* Reduces the gap between the Mawaqit widget and prayer information */
+.prayer-times-section {
+  margin-bottom: 24px;
+}
+
+.prayer-services-section {
+  margin-top: 24px;
+}
