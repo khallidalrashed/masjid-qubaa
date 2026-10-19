@@ -124,7 +124,7 @@ header .menu-button:hover {
 
 @media (max-width: 600px) {
   .header-logo {
-    height: 90px;
+    height: 110px;
     width: auto;
   }
 }
