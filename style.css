@@ -589,7 +589,7 @@ footer p {
 .prayer-widget {
   display: block;
   width: 100%;
-  height: 400px;   /* adjust if the widget looks cut off */
+  height: 500px;   /* adjust if the widget looks cut off */
   border: 0;
   border-radius: 10px;
 }
@@ -904,7 +904,7 @@ footer p {
 /* Taller on phones so all prayer times remain visible */
 @media (max-width: 600px) {
   .mobile-prayer-widget {
-    height: 570px;
+    height: 500px;
   }
 }
 
