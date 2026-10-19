@@ -833,6 +833,7 @@ footer p {
   color: var(--green);
   font-size: 1.12rem;
   font-weight: bold;
+  text-align: center;
 }
 
 .beliefs-card .beliefs-conclusion {
@@ -840,6 +841,7 @@ footer p {
   border-radius: 10px;
   background: #0c3b32;
   color: white;
+  text-align: center;
 }
 
 .beliefs-list {
@@ -875,6 +877,7 @@ footer p {
   color: #52665f;
   font-size: 0.9rem;
   font-style: italic;
+  text-align: center;
 }
 
 /* Phone-friendly spacing */
